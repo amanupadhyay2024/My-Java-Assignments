@@ -1,0 +1,31 @@
+Assignment No.1
+
+Q1. Whats is a computer ?
+Ans: A computer is an electronic device that stores & processes data, often in binary form, in accordance with commands from a 
+        variable programme.
+        E.g. Mobile Phone, Laptop, PC, etc.
+
+Q2. What is RAM?
+Ans: RAM stands for "Random Access Memory". It is the Primary Memory of the system as it is directly connected with the processor 
+        over the data BUS. It is a volatile memory i.e. it stores data/information only until the power supply is not cut.
+
+Q3. Where is the data stored in the computer?
+Ans: Data is stored on the memory. Temporary data is stored on RAM or Cache Memory. Permanent Data is stored on Secondary Memory 
+        i.e. HDD or SSD.
+
+Q4. What is that input device used to type text and numbers on a document in the computer system?
+Ans: Keyboard
+
+Q5. What are the output devices?
+Ans: Output devices gives the output after execution by the processor of the inputs provides by input devices.
+        E.g. Monitor, Printer, Speaker, etc.
+
+Q6. Which is the input device that allows a user to move the cursor or pointer on the screen?
+Ans: Mouse
+
+Q7. Which language is directly understood by a computer without a translation program?
+Ans: Binary Language (0 & 1)
+
+Q8. What are the Input devices?
+Ans: Input devices are used to send the information to the processor from the user in order to process that.
+        E.g. Keyboard, Mouse, Scanner etc.
