@@ -1,0 +1,47 @@
+Assignment No.2
+
+Q1. Whats is a Git ?
+Ans: Git is a popular Version Control System, which is used to track code changes, history of the changes, coding collaborations, etc for the 
+        projects.
+
+
+Q2. What do you understand by the term 'Version Control System' ?
+Ans: Version Control System records changes to the coding over time, so that we can check those changes history later through Versions. In short, 
+        for every changes in coding, a new version gets created as soon as the developer saves (commits) the code file.
+
+
+Q3. What is Github?
+Ans: Github is a popular Git Server (Remote Repository).
+
+
+Q4. Mention some popular Git hosting services.
+Ans: Github, BitBucket, Gitblit, Gitlab, etc.
+
+
+Q5. Different types of Version Control Systems?
+Ans: There are 2 types of Version Control Systems...
+        1. Centralised Version Control System
+        2. Distributed Version Control System
+
+
+Q6. What benefits come with using GIT?
+Ans: There are many benefits of using GIT. Some of them are...
+        1. Git is a Distributed Version Control System. 
+        2. There is no any fear of deleting of the data, as the copy of source code is available on the local repository of every developer 
+            of that particular project. 
+        3. Developers can fully access the files in the repository including its full history.
+        4. There is no dependency of the main server after the PULL of code to developer's local repository.
+
+
+Q7. What is a Git repository?
+Ans: Git Repository is the Git Server which is used locally (as a Local Repository) or remotely (as the Main Server).
+        Local Repository can be accessed only by the particular developer, whereas Main Server can be accessed by every developer involved
+        in that particular project.
+
+
+Q8. How can you initialize a repository in Git?
+Ans: Step 1. Open the id (say, VS Code)
+        Step 2. Define a workspace (Say, a local folder), where you want to save your coding locally on the PC.
+        Step 3. Comment "git init" and press Enter
+        Step 4. Now the repository is initialized.. i.e. The whole workarea will be divided into 3 parts internally.. Workspace, Stage Area & Local 
+                   Repository.  
