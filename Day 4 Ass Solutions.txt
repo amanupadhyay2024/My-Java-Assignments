@@ -1,0 +1,40 @@
+Assignment No.3
+
+Q1. How to check if git is available on your system ?
+Ans: Open Git Bash & write command: "git version" and press enter. If the version shows, then Git is successfully installed. 
+
+
+Q2. How to initialize a new Git repository ?
+Ans: Go to WorkArea folder & Open Git Bash by right click & write command: "git init" and press enter. It'll initialize a new Git Repository.
+
+
+Q3. How to tell git about your name and email?
+Ans: To set name...
+        Open Git Bash & write command: "git config --global user.name "Your Name" " and press enter.
+        To set email...
+        Open Git Bash & write command: "git config --global user.email "Your Email" " and press enter.
+       (Name & Email should be as same as in the Github account)
+
+
+Q4. How to add a file to the staging area?
+Ans: In the Git Bash, write command: "git add ." and press enter. It'll add all the files to staging area from WorkingArea present at that time.
+       In the Git Bash, write command: "git add FILENAME" and press enter. It'll add that specific file to staging area from WorkingArea.
+
+
+Q5. How to remove a file from the staging area?
+Ans: In the Git Bash, write command: "git restore FILENAME" and press enter. It'll remove that file to WorkingArea from Staging Area.
+
+
+Q6. How to make a commit?
+Ans: Step 1. Move all the files (or specific file) from Working Area to Staging Area using command: "git add ." or "git add FILENAME"
+        Step 2. Now to perform commit operation, write command: " git commit -m "first commit" "  , where "first commit" is a comment/msg 
+	    and press Enter
+
+Q7. How to send your changes to a remote repository?
+Ans: By writing command: "git push -u origin main" and pressing enter i.e. the source code file will be sent to remote repository (main) from origin.
+
+
+Q8. What is the difference between clone & pull?
+Ans: By using the "git clone" command, the developer gets the whole copy of the project files to his local repository/working directory. 
+        while  By using the "git pull" command, the developer not only gets the entire copy of project files, also he can fetch the latest changes made
+        in the remote repository by any of other developer involved in that project.
