@@ -1,0 +1,38 @@
+Assignment No.4
+
+Q1. What is Programming Language ?
+Ans: Programming is just to make a set of instructions that instruct your computer the way to carry out a task. The language (Coding) that we 
+        use to write the program is called Programming Language. Example.. Java, Python, etc.
+
+        There are 3 main categories of Programming Languages...
+        1. Machine Level Language ( It is only Machine readable & not human understandable)
+        2. Assembly Level Language ( It is the human readable language but it is later converted to MLL in order to make it understandable for machine)
+        3. High Level Language ( It is the human readable & understandable & is later converted to MLL in order to make it understandable for machine)
+                    [Example: Java, Python, PHP, etc.]
+
+
+Q2. Why do we need a Programming Language ?
+Ans: We need a Programming Language to give instructions in a specific way (Source Code) to your computer to carry out a task.
+
+
+Q3. What are the features of Java ?
+Ans: 1. Java is simple, straightforward and flexible as it is Object-oriented programming language.
+        2. Java is a secure language.
+        3. Java is a portable/platform-independent language i.e. the same software made by Java can be run on various OS platforms.
+        4. Java is a Multi-threaded language as it can execute multiple tasks concurrently.
+        5. Java is suitable for Distributed Internet Environments.
+
+
+Q4. What is an object ?
+Ans: An Object is an entity having state & behavior. The object can be intellectual (cannot be seen or touched) or physical (can be seen or touched).
+       In other words, An Object is a real-world entity & a runtime entity, which can be identified as per its state & behaviour.
+
+
+Q5. What is a class ?
+Ans: A Class is a collection of items with similar characteristics. A Class's instances are Objects. A class serves as a model/blueprint from which
+        new objects can be made. It makes sense as a whole.
+
+
+Q6. Explain about the main() method in Java ?
+Ans: In a Java Program, the main() method is the starting point for JVM to start the execution of the program. Without the main() method, JVM 
+        cannot execute the program, as JVM couldn't decide from where to start the execution of the program.
