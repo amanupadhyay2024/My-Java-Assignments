@@ -1,0 +1,65 @@
+Assignment No.5
+
+Q1. What is Statically Typed and Dynamically Typed Programming Language ?
+Ans: Statically Typed are the programming languages in which the memory of the variable is given during the compilation time itself. For e.g. C, C++, Java, etc. 
+            Like... int age = 23;        //here "int" data-type (memory space) is given already before complilation 
+        Dynamically Typed are the programming languages in which the memory of the variable is given during the execution time itself. For e.g. Python, PHP, JavaScript etc. 
+            Like... age = 23;        //here no any memory space is given before execution 
+
+
+Q2. What is the variable in Java ?
+Ans:  A Variable is referred to as the name of a memory location. It works like a container that holds a value while the Java Program is executed.
+         E.g. int age = 33;    // Here '33' is stored in the variable named 'age' 
+
+
+Q3. How to assign a value to a variable ?
+Ans: Type 1: We can declare & assign a variable directly..
+                    E.g. int marks = 68; 
+        Type 2: Variables can be declared & assigned separately..
+                    E.g. int marks;
+                           marks = 68;
+             (Note: data-type can be assigned only once)
+
+
+Q4. What are Primitive Data Types in Java ?
+Ans: The Primitive Data Types in Java include Boolean, char, byte, short, int, long, float and double. 
+        This data-type is used to store number, character & logical data. Each data type has its own capacity and features to store data.
+
+Q5. What are the Identifiers in Java ?
+Ans: An Identifier is just the name given to a variable, method, class, package or interface.
+        In a particular program, all the identifiers must have different names. 
+
+
+Q6. List the operators in Java.
+Ans: There are 6 types of operators in Java...
+        1. Arithmetic Operators
+        2. Relational Operators
+        3. Logical Operators
+        4. Assigment Operators
+        5. Unary Operators
+        6. Bitwise Operators
+
+
+Q7. Explain about Increment & Decrement Operators & give an example.
+Ans:  Increment Operators: 
+                 E.g. int a = 8;
+                            a = a+1;    
+                            System.out.Println (a);   //Result 6
+                 But this "a=a+1" can be written as "a++". This process is called "Incrementation" & "a++" is called Increment Operator.
+                 Syntax: VarName++
+
+                There are two types of Increment Operator =>
+                1) Post Increment => VarName++  (the value of variable increases by 1 but stored only in memory for next process)
+                2) Pre Increment => ++VarName   (the value of variable increases by 1)
+
+
+               Decrement Operators: 
+                 E.g. int a = 8;
+                            a = a-1;    
+                            System.out.Println (a);   //Result 7
+                 But this "a=a-1" can be written as "a--". This process is called "Decrementation" & "a--" is called Decrement Operator.
+                 Syntax: VarName--
+
+                There are two types of Increment Operator =>
+                1) Post Decrement => VarName--  (the value of variable decreases by 1 but stored only in memory for next process)
+                2) Pre Decrement => --VarName   (the value of variable decreases by 1)
