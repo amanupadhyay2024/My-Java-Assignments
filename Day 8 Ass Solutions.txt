@@ -1,0 +1,77 @@
+Assignment No.6
+
+Q1. What are Conditional Operators in Java ?
+Ans: Conditional operators are used when a condition comprises of more than 1 boolean expression. It is used to combine, compare and to perform
+        arithmetic operations as per the conditions defined. It includes arithmetic operators, relational operators, logical operators, ternary operators, etc.
+
+
+Q2. What are the types of operators based on the number of operands?
+Ans: There are three types of operators based on the number of operands. 
+        1. If an operator takes 1 operand, it is called a unary operator. 
+        2. If it takes 2 operands, it is called a binary operator. 
+        3. If it takes 3 operands, it is called a ternary operator.
+
+
+Q3. What is the use of Switch Case in Java Programming?
+Ans:  It is like an if-else ladder with multiple conditions, where we check for equality of a variable with various values.
+         Syntax:
+                      switch (expression) {
+                       case value1 : 
+                                           ...... (statement)
+                                          break;
+                       case value2 : 
+                                           ...... (statement)
+                                          break;
+                       .
+                       ..
+                       ..
+                       ..
+                       default:
+                                   ....... (statement)
+                       } 
+
+
+Q4. What are the priority levels of arithmetic operation in Java?
+Ans: In Java, Multiplication, division and remainder operations are applied first. If an expression contains several such operations, they are 
+        applied from left to right. After that, Addition and subtraction operations are applied next. If an expression contains several such 
+        operations, the operators are applied from left to right.
+
+
+Q5. What are the conditional Statements and use of conditional statements in Java?
+Ans: Conditional Statements are the statements that decides what should be the result, based on the given conditions.
+        Conditional Statements are used when a condition comprises of more than one boolean expression. In short, these are used when we do
+        conditional-based coding, means if a condition is true, then what to do & if false, then what to do.
+
+
+Q6. What is the syntax of "if else" statement?
+Ans:  if (condition)
+            {
+             ......... (body/statement1)
+            }
+            else
+            {
+             ......... (body/statement2)
+            }
+
+
+Q7. What are the 3 types of iterative statements in Java?
+Ans:  The 3-types of Iterative Statements / Loops in Java are :
+         1. for () loop
+         2. while () loop
+         3. do-while() loop
+
+
+Q8. Write the difference between for loop & do-while loop.
+Ans: In for loop, the condition is checked before the body execution.
+       In do-while loop, the body execution is done before first loop condition check.
+
+
+Q9. Write a program to print numbers from 1 to 10.
+Ans:  Using for() loop =>
+               public static void main (String args[])
+               { 
+                     for ( i=1 ; i<=10 ; i++ )
+                     {
+                     System.out.Println ( i );
+                     }
+               }
